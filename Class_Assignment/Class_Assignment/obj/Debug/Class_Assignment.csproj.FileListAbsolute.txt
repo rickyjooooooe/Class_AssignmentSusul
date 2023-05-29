@@ -1,0 +1,12 @@
+C:\Users\KIMBERLY\source\repos\Class_Assignment\Class_Assignment\bin\Debug\Class_Assignment.exe.config
+C:\Users\KIMBERLY\source\repos\Class_Assignment\Class_Assignment\bin\Debug\Class_Assignment.exe
+C:\Users\KIMBERLY\source\repos\Class_Assignment\Class_Assignment\bin\Debug\Class_Assignment.pdb
+C:\Users\KIMBERLY\source\repos\Class_Assignment\Class_Assignment\obj\Debug\Class_Assignment.csproj.AssemblyReference.cache
+C:\Users\KIMBERLY\source\repos\Class_Assignment\Class_Assignment\obj\Debug\Class_Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIMBERLY\source\repos\Class_Assignment\Class_Assignment\obj\Debug\Class_Assignment.Form1.resources
+C:\Users\KIMBERLY\source\repos\Class_Assignment\Class_Assignment\obj\Debug\Class_Assignment.Properties.Resources.resources
+C:\Users\KIMBERLY\source\repos\Class_Assignment\Class_Assignment\obj\Debug\Class_Assignment.csproj.GenerateResource.cache
+C:\Users\KIMBERLY\source\repos\Class_Assignment\Class_Assignment\obj\Debug\Class_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\KIMBERLY\source\repos\Class_Assignment\Class_Assignment\obj\Debug\Class_Assignment.exe
+C:\Users\KIMBERLY\source\repos\Class_Assignment\Class_Assignment\obj\Debug\Class_Assignment.pdb
+C:\Users\KIMBERLY\source\repos\Class_Assignment\Class_Assignment\obj\Debug\Class_Assignment.Resource1.resources
